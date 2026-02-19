@@ -1,0 +1,5 @@
+{
+  "name": "HR Lucky & Group Tool",
+  "description": "A comprehensive HR utility for managing participant lists, running animated lucky draws, and automatically generating randomized groups from CSV or text input.",
+  "requestFramePermissions": []
+}
